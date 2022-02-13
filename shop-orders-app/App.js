@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import ProductForm from './src/pages/products/Form';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My firts app</Text>
+      <ProductForm />
       <StatusBar style="auto" />
     </View>
   );
