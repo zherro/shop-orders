@@ -16,6 +16,9 @@ Project for create and manage shop orders
 
 - [MyColor Space](https://mycolor.space/?hex=%231E1232&sub=1)
  
+### Read Suggestions
+
+- [O que é JSX?](https://reactjs.org/docs/introducing-jsx.html)
 
 ### Project:
  
