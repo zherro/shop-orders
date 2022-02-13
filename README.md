@@ -18,7 +18,8 @@ Project for create and manage shop orders
  
 ### Read Suggestions
 
-- [O que é JSX?](https://reactjs.org/docs/introducing-jsx.html)
+- [What is JSX?](https://reactjs.org/docs/introducing-jsx.html)
+- [Declaration of components](https://reactnative.dev/docs/getting-started#function-components-and-class-components)
 
 ### Project:
  
