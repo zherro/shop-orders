@@ -1,21 +1,16 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar, SafeAreaView } from 'react-native';
 import ProductForm from './src/pages/products/Form';
+
+import './assets/bootstrap-5.1.3-dist/css/bootstrap.min.css';
+import Header from './src/components/header.component';
+import ProductItens from './src/pages/products/Itens.page';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <ProductForm />
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaView>
+		<StatusBar />
+		<Header />
+      	<ProductItens />
+    </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
