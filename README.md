@@ -36,6 +36,8 @@ Project for create and manage shop orders
 
 - [Next Js](https://nextjs.org/docs): Framework react que acelera o desenvolvimento, e possibilita melhor gerenciamento de processamento server-side.
 
+- [Type Script](https://www.typescriptlang.org/)
+
 #### React COncepts
 
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
