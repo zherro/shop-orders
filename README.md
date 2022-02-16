@@ -11,6 +11,37 @@ Project for create and manage shop orders
 - Type Scrypt, Node e ecossistema react
  
 
+### References
+
+#### DOCs
+
+- [W3 Schools](https://www.w3schools.com/html/default.asp): Documentação HTML e CSS com cases e esplicações.
+
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/): kit de ferramentas de código aberto de front-end mais popular do mundo, com variáveis ​​e mixins Sass, sistema de grade responsivo, extensos componentes pré-construídos e poderosos plugins JavaScript.
+
+- [React](https://reactjs.org/): linguagem declarativa baseada em componentes javascript.
+
+- [React Native](https://reactnative.dev/): Platavorma react para desenvolvimento mobile.
+
+- [Next Js](https://nextjs.org/docs): Framework react que acelera o desenvolvimento, e possibilita melhor gerenciamento de processamento server-side.
+
+#### React COncepts
+
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+
+- [useEffect](https://reactjs.org/docs/hooks-effect.html)
+
+#### Articles
+
+- [What is React?](https://reactjs.org/tutorial/tutorial.html#overview)
+
+- [React Virtual DOM vs Real DOM](https://medium.com/devinder/react-virtual-dom-vs-real-dom-23749ff7adc9#:~:text=The%20Virtual%20DOM%20is%20a,screen%20like%20the%20real%20DOM.)
+
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
+- [Presentational and Container Component Pattern in React](https://www.better.dev/presentational-and-container-component-pattern-in-react)
+
+
 ### Project:
  
 #### 1 - Cadastro de cliente
