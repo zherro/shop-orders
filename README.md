@@ -4,6 +4,11 @@ Project for create and manage shop orders
 
 # Requiriments
 
+### Tools
+
+- [VsCode](https://code.visualstudio.com/)
+- [Node](https://nodejs.org/)
+
 ### Stack:
 
 - html, css e design responsivo com bootstrap
@@ -38,6 +43,10 @@ Project for create and manage shop orders
 - [useEffect](https://reactjs.org/docs/hooks-effect.html)
 
 #### Articles
+
+- [Whats is Node?](https://nodejs.org/en/about/)
+
+- [What is npm?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/)
 
 - [What is React?](https://reactjs.org/tutorial/tutorial.html#overview)
 
