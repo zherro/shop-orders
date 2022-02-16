@@ -7,7 +7,10 @@ Project for create and manage shop orders
 ### Tools
 
 - [VsCode](https://code.visualstudio.com/)
+
 - [Node](https://nodejs.org/)
+
+- [MyColor Space](https://mycolor.space/?hex=%231E1232&sub=1)
 
 ### Stack:
 
@@ -18,8 +21,6 @@ Project for create and manage shop orders
 - [Bootstrap 5.1.3](https://getbootstrap.com/docs/5.1/getting-started/download/)
 
 - [FontAwsome 6.0.0](https://fontawesome.com/icons)
-
-- [MyColor Space](https://mycolor.space/?hex=%231E1232&sub=1)
  
 
 ### References
