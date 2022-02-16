@@ -1,0 +1,47 @@
+.theme-bg-over {
+	background-color: #1E1232;
+}
+
+.theme-bg-primary {
+	background-color: #61294F;
+}
+
+.theme-bg-secondary {
+	background-color: #A4485B;
+}
+
+.theme-bg-aux {
+	background-color: #DB765A;
+}
+
+.theme-bg-light{
+	background-color: #F9B359;
+}
+
+.theme-bg-light-2{
+	background-color: #F9F871;
+}
+
+.theme-text-over {
+	color: #1E1232;
+}
+
+.theme-text-primary {
+	color: #61294F;
+}
+
+.theme-text-secondary {
+	color: #A4485B;
+}
+
+.theme-text-aux {
+	color: #DB765A;
+}
+
+.theme-text-light{
+	color: #F9B359;
+}
+
+.theme-text-light-2{
+	color: #F9F871;
+}
