@@ -1,0 +1,48 @@
+.title {
+	color: #0087D6;
+	padding: 1.25em;
+	border-bottom: 1px solid #0083B4;
+}
+
+.boxProducts {
+	min-width: 200px;
+	width: 20%;
+	float: left;
+	padding: 15px;
+}
+
+.cardProduct {
+	border: 1px solid #00C9A7;	
+	padding: 0.75em;
+	border-radius: 2px;
+	width: 100%;
+
+}
+
+.productName {
+	border-bottom: 1px solid #00C9A7;
+	padding-bottom: 0.75em;
+	margin-bottom: .75em;
+}
+
+.productCode {
+	color: #B0A8B9;
+	font-size: .85em;
+	display: flex;
+}
+
+.productqtd, .productValue {
+	width: 50%;
+	float: left;
+	padding: .75em 0px;
+}
+
+.btn {
+	background-color: #00C9A7;
+	border: none;
+	font-size: 1.25em;
+	color: #fafafa;
+	width: 100%;
+	border-radius: 3px;
+	margin-top: .75em;
+}
