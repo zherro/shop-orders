@@ -9,13 +9,13 @@
 		id: 1013,
 		name: "Product 2",
 		qtd: 12,
-		price: 10.10,
+		price: 10.11,
 	},
 	{
 		id: 1011,
 		name: "Product 4",
 		qtd: 12,
-		price: 10.10,
+		price: 10.12,
 	},
 	{
 		id: 1015,
